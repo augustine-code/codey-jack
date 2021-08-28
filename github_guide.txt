@@ -1,0 +1,11 @@
+>>> GIT HUB BASH GUIDE <<<
+
+>>>> Cd desktop
+>>>> cd codey-jack
+>>>> git init
+>>>> git status
+>>>> git add .
+>>>> git rm .
+>>>> git commit -m 
+>>>> git remote
+>>>> git push -u origin master
